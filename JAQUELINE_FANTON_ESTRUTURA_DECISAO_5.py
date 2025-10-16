@@ -5,9 +5,9 @@
 #A mensagem "Aprovado com Distinção", se a média for igual a dez.
 #desenvolvido por: JAQUELINE FANTON
 
-nota1=float(input("Qual a primeira nota?"))
-nota2=float(input("Qual a segunda nota?"))
-media=(nota1 + nota2) / 2
+nota1 = float(input("Qual a primeira nota?"))
+nota2 = float(input("Qual a segunda nota?"))
+media = (nota1 + nota2) / 2
 #se
 if media==10:
   print("Aprovado com Distinção")
