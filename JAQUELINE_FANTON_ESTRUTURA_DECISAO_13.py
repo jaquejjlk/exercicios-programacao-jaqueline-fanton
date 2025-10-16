@@ -2,7 +2,7 @@
 # (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 #desenvolvido por: JAQUELINE FANTON
 
-semana = input("Número da semana: 1 a 7")
+semana = input("Qual o número da semana(1 a 7):")
 #se
 if semana=="1":
   print("Domingo")
