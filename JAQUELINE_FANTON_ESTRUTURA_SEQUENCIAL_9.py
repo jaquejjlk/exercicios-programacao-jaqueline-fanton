@@ -4,6 +4,6 @@
 #Desenvolvido por: JAQUELINE FANTON
 
 fahrenheit = float(input("Qual a temperatura em graus Fahrenheit:"))
-print(fahrenheit)
+print(fahrenheit)#commit
 celsius = 5 * ((fahrenheit-32) / 9)
 print("em graus Celsius é:",celsius)
