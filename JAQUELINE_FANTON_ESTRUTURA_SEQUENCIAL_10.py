@@ -6,4 +6,4 @@
 celsius = float(input("Qual a temperatura em graus Celsius:"))
 print(celsius)
 fahrenheit = (celsius * 9/5) + 32
-print("em graus Fahrenheit é:",fahrenheit)
+print(celsius,"em graus Fahrenheit é:",fahrenheit)
