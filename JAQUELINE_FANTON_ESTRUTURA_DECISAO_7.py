@@ -1,9 +1,9 @@
 #Faça um programa que leia três números e mostre o maior e o menor deles:
 #Desenvolvido por: JAQUELINE FANTON
 
-numero1=float(input("Qual o primeiro número:"))
-numero2=float(input("Qual o segundo número:"))
-numero3=float(input("Qual o terceiro número:"))
+numero1=float(input("Digite o primeiro número:"))
+numero2=float(input("Digite o segundo número:"))
+numero3=float(input("Digite o terceiro número:"))
 
 #maior
 maior=numero1
