@@ -5,7 +5,7 @@
 #Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 #desenvolvido por: JAQUELINE FANTON
 
-turno = input("Qual seu turno?")
+turno=input("Qual seu turno?")
 #se
 if turno=="Matutino":
   print("Bom Dia!")
