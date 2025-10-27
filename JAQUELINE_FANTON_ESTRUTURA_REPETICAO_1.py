@@ -5,7 +5,7 @@
 #while:enquanto True:verdadeiro
 while True:
   nota=float(input("Digite uma nota entre 0 e 10:"))
-  #se
+  #se and:e
   if nota>=0 and nota<=10:
     print("Valor válido!")
     break
