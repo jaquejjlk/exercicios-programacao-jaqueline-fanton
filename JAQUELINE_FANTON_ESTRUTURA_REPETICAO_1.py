@@ -2,6 +2,7 @@
 #Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 #Desenvolvido por: JAQUELINE FANTON
 
+#while:enquanto True:verdadeiro
 while True:
   nota=float(input("Digite uma nota entre 0 e 10:"))
   #se
